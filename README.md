@@ -10,6 +10,14 @@ Programming Language: Java (Spring Boot), PHP (Laravel), JavaScript
 1. Run The Api FIrst (Springboot)
 2. Run The Consume Api (Laravel)
 
+<h4>Login</h4>
+
+1. Admin
+   usename: admin
+   password: admin
+3. User
+   username: hiskia
+   password: admin
 
 Tools:
 1. IntelliJ IDEA
