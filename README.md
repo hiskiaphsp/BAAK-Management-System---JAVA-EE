@@ -6,8 +6,10 @@ Developing the BAAK Management System, with a focus on user-friendly functionali
 Programming Language: Java (Spring Boot), PHP (Laravel), JavaScript
 
 <h4>How To Run The Project:</h4>
+
 1. Run The Api FIrst (Springboot)
 2. Run The Consume Api (Laravel)
+
 
 Tools:
 1. IntelliJ IDEA
